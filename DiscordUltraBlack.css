@@ -6,6 +6,8 @@
  * @source https://github.com/Baryix990/DiscordBlackTheme/blob/main/DiscordUltraBlack.css
 */
 
+@import url ('https://raw.githubusercontent.com/Baryix990/DiscordBlackTheme/main/DiscordUltraBlack.css')
+
 /* Variables */
 :root {
     --background-solid: #000000;
