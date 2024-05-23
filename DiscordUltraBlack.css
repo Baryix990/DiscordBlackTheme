@@ -1,0 +1,18 @@
+/**
+ * @name Ultra black
+ * @author astroshiba
+ * @version 1.0.0
+ * @description Interpretation of mobile black theme.
+ * @source x
+*/
+
+/* Variables */
+:root {
+    --background-solid: #000000;
+    --background-solid-dark: #000000;
+    --background-solid-darker: #000000;
+    --accent: 129, 38, 233;
+    --accent-alt: 65, 30, 135;
+}
+
+#I reccomend only changing accent collor(default is 129, 38, 233, and alt 65, 30, 135, wich is purple)
